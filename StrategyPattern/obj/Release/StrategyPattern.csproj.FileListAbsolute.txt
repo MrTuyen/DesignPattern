@@ -1,0 +1,6 @@
+C:\NGUYENVANTUYEN\Project\CompositeParttern\StrategyPattern\bin\Release\StrategyPattern.exe.config
+C:\NGUYENVANTUYEN\Project\CompositeParttern\StrategyPattern\bin\Release\StrategyPattern.exe
+C:\NGUYENVANTUYEN\Project\CompositeParttern\StrategyPattern\bin\Release\StrategyPattern.pdb
+C:\NGUYENVANTUYEN\Project\CompositeParttern\StrategyPattern\obj\Release\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\NGUYENVANTUYEN\Project\CompositeParttern\StrategyPattern\obj\Release\StrategyPattern.exe
+C:\NGUYENVANTUYEN\Project\CompositeParttern\StrategyPattern\obj\Release\StrategyPattern.pdb

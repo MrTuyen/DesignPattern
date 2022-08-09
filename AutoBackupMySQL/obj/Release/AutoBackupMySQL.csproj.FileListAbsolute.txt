@@ -1,0 +1,13 @@
+C:\NGUYENVANTUYEN\Project\CompositeParttern\AutoBackupMySQL\bin\Release\AutoBackupMySQL.exe.config
+C:\NGUYENVANTUYEN\Project\CompositeParttern\AutoBackupMySQL\bin\Release\AutoBackupMySQL.exe
+C:\NGUYENVANTUYEN\Project\CompositeParttern\AutoBackupMySQL\bin\Release\AutoBackupMySQL.pdb
+C:\NGUYENVANTUYEN\Project\CompositeParttern\AutoBackupMySQL\bin\Release\NCrontab.Advanced.dll
+C:\NGUYENVANTUYEN\Project\CompositeParttern\AutoBackupMySQL\bin\Release\NCrontab.dll
+C:\NGUYENVANTUYEN\Project\CompositeParttern\AutoBackupMySQL\bin\Release\SAB.Library.Core.dll
+C:\NGUYENVANTUYEN\Project\CompositeParttern\AutoBackupMySQL\bin\Release\SAB.Library.Data.dll
+C:\NGUYENVANTUYEN\Project\CompositeParttern\AutoBackupMySQL\bin\Release\NCrontab.pdb
+C:\NGUYENVANTUYEN\Project\CompositeParttern\AutoBackupMySQL\obj\Release\AutoBackupMySQL.Installer1.resources
+C:\NGUYENVANTUYEN\Project\CompositeParttern\AutoBackupMySQL\obj\Release\AutoBackupMySQL.csproj.GenerateResource.Cache
+C:\NGUYENVANTUYEN\Project\CompositeParttern\AutoBackupMySQL\obj\Release\AutoBackupMySQL.exe
+C:\NGUYENVANTUYEN\Project\CompositeParttern\AutoBackupMySQL\obj\Release\AutoBackupMySQL.pdb
+C:\NGUYENVANTUYEN\Project\CompositeParttern\AutoBackupMySQL\bin\Release\MySql.Data.dll

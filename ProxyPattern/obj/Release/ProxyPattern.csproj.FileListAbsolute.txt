@@ -1,0 +1,5 @@
+C:\NGUYENVANTUYEN\Project\CompositeParttern\ProxyPattern\bin\Release\ProxyPattern.exe.config
+C:\NGUYENVANTUYEN\Project\CompositeParttern\ProxyPattern\bin\Release\ProxyPattern.exe
+C:\NGUYENVANTUYEN\Project\CompositeParttern\ProxyPattern\bin\Release\ProxyPattern.pdb
+C:\NGUYENVANTUYEN\Project\CompositeParttern\ProxyPattern\obj\Release\ProxyPattern.exe
+C:\NGUYENVANTUYEN\Project\CompositeParttern\ProxyPattern\obj\Release\ProxyPattern.pdb

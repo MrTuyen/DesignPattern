@@ -1,0 +1,6 @@
+C:\NGUYENVANTUYEN\Project\CompositeParttern\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+C:\NGUYENVANTUYEN\Project\CompositeParttern\ProxyPattern\bin\Debug\ProxyPattern.exe
+C:\NGUYENVANTUYEN\Project\CompositeParttern\ProxyPattern\bin\Debug\ProxyPattern.pdb
+C:\NGUYENVANTUYEN\Project\CompositeParttern\ProxyPattern\obj\Debug\ProxyPattern.exe
+C:\NGUYENVANTUYEN\Project\CompositeParttern\ProxyPattern\obj\Debug\ProxyPattern.pdb
+C:\NGUYENVANTUYEN\Project\CompositeParttern\ProxyPattern\obj\Debug\ProxyPattern.csprojResolveAssemblyReference.cache

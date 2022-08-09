@@ -1,0 +1,2 @@
+C:\NGUYENVANTUYEN\Project\CompositeParttern\PrototypePattern\bin\Debug\PrototypePattern.exe.config
+C:\NGUYENVANTUYEN\Project\CompositeParttern\PrototypePattern\obj\Debug\PrototypePattern.csprojResolveAssemblyReference.cache

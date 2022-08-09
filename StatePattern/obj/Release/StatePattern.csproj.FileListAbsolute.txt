@@ -1,0 +1,6 @@
+C:\NGUYENVANTUYEN\Project\CompositeParttern\StatePattern\bin\Release\StatePattern.exe.config
+C:\NGUYENVANTUYEN\Project\CompositeParttern\StatePattern\bin\Release\StatePattern.exe
+C:\NGUYENVANTUYEN\Project\CompositeParttern\StatePattern\bin\Release\StatePattern.pdb
+C:\NGUYENVANTUYEN\Project\CompositeParttern\StatePattern\obj\Release\StatePattern.csprojResolveAssemblyReference.cache
+C:\NGUYENVANTUYEN\Project\CompositeParttern\StatePattern\obj\Release\StatePattern.exe
+C:\NGUYENVANTUYEN\Project\CompositeParttern\StatePattern\obj\Release\StatePattern.pdb

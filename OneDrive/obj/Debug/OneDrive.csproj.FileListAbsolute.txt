@@ -1,0 +1,13 @@
+C:\NGUYENVANTUYEN\Project\CompositeParttern\OneDrive\bin\Debug\OneDrive.exe.config
+C:\NGUYENVANTUYEN\Project\CompositeParttern\OneDrive\bin\Debug\OneDrive.exe
+C:\NGUYENVANTUYEN\Project\CompositeParttern\OneDrive\bin\Debug\OneDrive.pdb
+C:\NGUYENVANTUYEN\Project\CompositeParttern\OneDrive\bin\Debug\Microsoft.Graph.Core.dll
+C:\NGUYENVANTUYEN\Project\CompositeParttern\OneDrive\bin\Debug\Microsoft.OneDrive.Sdk.dll
+C:\NGUYENVANTUYEN\Project\CompositeParttern\OneDrive\bin\Debug\Newtonsoft.Json.dll
+C:\NGUYENVANTUYEN\Project\CompositeParttern\OneDrive\bin\Debug\Newtonsoft.Json.xml
+C:\NGUYENVANTUYEN\Project\CompositeParttern\OneDrive\obj\Debug\OneDrive.csproj.AssemblyReference.cache
+C:\NGUYENVANTUYEN\Project\CompositeParttern\OneDrive\obj\Debug\OneDrive.csproj.SuggestedBindingRedirects.cache
+C:\NGUYENVANTUYEN\Project\CompositeParttern\OneDrive\obj\Debug\OneDrive.csproj.CoreCompileInputs.cache
+C:\NGUYENVANTUYEN\Project\CompositeParttern\OneDrive\obj\Debug\OneDrive.csproj.CopyComplete
+C:\NGUYENVANTUYEN\Project\CompositeParttern\OneDrive\obj\Debug\OneDrive.exe
+C:\NGUYENVANTUYEN\Project\CompositeParttern\OneDrive\obj\Debug\OneDrive.pdb

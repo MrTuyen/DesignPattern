@@ -1,0 +1,6 @@
+C:\NGUYENVANTUYEN\Project\CompositeParttern\CompositeParttern\bin\Release\CompositeParttern.exe.config
+C:\NGUYENVANTUYEN\Project\CompositeParttern\CompositeParttern\bin\Release\CompositeParttern.exe
+C:\NGUYENVANTUYEN\Project\CompositeParttern\CompositeParttern\bin\Release\CompositeParttern.pdb
+C:\NGUYENVANTUYEN\Project\CompositeParttern\CompositeParttern\obj\Release\CompositeParttern.csprojResolveAssemblyReference.cache
+C:\NGUYENVANTUYEN\Project\CompositeParttern\CompositeParttern\obj\Release\CompositeParttern.exe
+C:\NGUYENVANTUYEN\Project\CompositeParttern\CompositeParttern\obj\Release\CompositeParttern.pdb
