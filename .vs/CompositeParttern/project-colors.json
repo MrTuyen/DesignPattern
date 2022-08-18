@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36a6bf4a-54bb-474d-8f38-d27512a3a613": {
+      "ProjectGuid": "36a6bf4a-54bb-474d-8f38-d27512a3a613",
+      "DisplayName": "AutoBackupMySQL",
+      "ColorIndex": 0
+    },
+    "7259dbf1-3db7-4cde-971e-f27e62dfaa1e": {
+      "ProjectGuid": "7259dbf1-3db7-4cde-971e-f27e62dfaa1e",
+      "DisplayName": "CompositeParttern",
+      "ColorIndex": 1
+    },
+    "2d73bc5a-5841-40b8-802b-10e752a71e29": {
+      "ProjectGuid": "2d73bc5a-5841-40b8-802b-10e752a71e29",
+      "DisplayName": "OneDrive",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
